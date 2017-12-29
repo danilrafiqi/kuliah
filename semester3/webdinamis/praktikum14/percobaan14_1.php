@@ -12,7 +12,7 @@
 <input type=submit Value=" OK ">
 
 </form>
-<?
+<?php
 require("koneksi.php");
 global $koneksi;
 global $databasename;
