@@ -100,6 +100,8 @@ function curd_create()
 <?php
 $row = array(
   "nmprodi" => "",
+  "akreditasi" => "",
+  "tahun_berdiri" => "",
   "publish" => "T");
 formeditor($row)
 ?>
